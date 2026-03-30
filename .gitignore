@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Logs
+logs/
+
+# Data files (sensitive)
+currentorders/
+oldorders/
+*.xlsx
+*.xls
+*.log
+
+# Local data
+*.ico
+
+# EXE Files
+PEP Import.exe
+
+#.env USER AND PASSWORD
+.env

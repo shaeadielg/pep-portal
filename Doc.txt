@@ -1,0 +1,11 @@
+pep_import.py is the merged file
+
+pep_process.py and pep_process_gui.py was compiled into one file so that a portable exe could be made.
+
+When running in VS Code use pep_process_gui.py (this will reference the pep_process.py)
+
+joshtex.ico is the logo displayed.
+
+Credentials are stored in P:\permissions.db in a new table for pep imports (Vinays 2023/03 Creds are default)
+
+Admin password to change login details is the Administrator pw
